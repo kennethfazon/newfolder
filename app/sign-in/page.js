@@ -71,7 +71,7 @@ export default function SignIn() {
               fullWidth
               variant="contained"
               sx={{ mt: 3, mb: 2 }}
-              href="/components/Appbar"
+              href="/components/Dashboard"
             >
               Sign In
             </Button>
